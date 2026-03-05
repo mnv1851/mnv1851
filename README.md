@@ -84,9 +84,16 @@ Repository:
 
 ## Demo Walkthrough
 
-<p align="center">
-  <img src="screenshots/wazuh-walkthrough.gif" width="90%" alt="Project walkthrough GIF" />
-</p>
+<details>
+  <summary><b>View Project Screenshots</b></summary>
+  <br>
+
+  <p align="center">
+    <img src="screenshots/wazuh-alert.png" width="80%" /><br><br>
+    <img src="screenshots/wazuh-dashboard.png" width="80%" /><br><br>
+    <img src="screenshots/auth-log-analysis.png" width="80%" />
+  </p>
+</details>
 
 ---
 
