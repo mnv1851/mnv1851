@@ -106,6 +106,22 @@ Repository:
 
 ---
 
+## 𝗣𝗹𝗮𝘆𝗯𝗼𝗼𝗸𝘀 & 𝗪𝗿𝗶𝘁𝗲𝘂𝗽𝘀
+
+### Investigation Writeups
+- [SSH Brute Force Investigation Writeup](#)  
+- [Phishing Investigation Writeup](#)  
+- [Detecting Web Shells - Investigation Writeup](#)  
+
+### SOC / Detection Playbooks
+- [SSH Brute Force Alert Triage Playbook](#)  
+- [Failed Authentication Investigation Playbook](#)  
+- [Web Shell Detection Initial Response Playbook](#)  
+
+<p align="center"><i>Playbooks and writeups are designed to demonstrate analyst thinking, triage workflow, and documentation quality.</i></p>
+
+---
+
 ## Experience
 
 <table>
