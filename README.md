@@ -168,12 +168,7 @@ Repository:
 
 ---
 
-## 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 (Aesthetic Panels)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mnv1851&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnv1851&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
+## 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mnv1851&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -181,23 +176,6 @@ Repository:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnv1851&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mnv1851&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnv1851&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mnv1851&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnv1851&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
