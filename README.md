@@ -85,6 +85,7 @@ Repository:
 ## Screenshots
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/main/screenshots/Detection/wazuh-authentication-failed.jpeg" width="45%" />
   <img src="mnv1851/soc-ssh-bruteforce-detection-wazuh/screenshots/Detection/wazuh-succesful-login.jpeg" width="45%" />
   <img src="mnv1851/soc-ssh-bruteforce-detection-wazuh/screenshots/Detection/wazuh-dashboard.jpeg" width="45%" />
 </p>
