@@ -82,6 +82,12 @@ My portfolio is built with one purpose: **prove job-ready SOC capability through
 Repository:
 - [SOC SSH Brute Force Attack Lifecycle Detection (Wazuh)](https://github.com/mnv1851/soc-ssh-bruteforce-detection-wazuh)
 
+## Demo Walkthrough
+
+<p align="center">
+  <img src="screenshots/wazuh-walkthrough.gif" width="90%" alt="Project walkthrough GIF" />
+</p>
+
 ---
 
 ## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
