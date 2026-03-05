@@ -176,7 +176,7 @@ Repository:
 ## 𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻 
 
 <p align="center">
-  <img src="https://github.com/mnv1851/mnv1851/tree/main/.github/workflows" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mnv1851/mnv1851/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
