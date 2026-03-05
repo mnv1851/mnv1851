@@ -173,7 +173,6 @@ Repository:
 
 ---
 
-## 𝗦𝗻𝗮𝗸𝗲 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mnv1851/mnv1851/output/snake.svg" alt="snake animation" />
