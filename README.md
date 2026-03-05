@@ -86,13 +86,12 @@ Repository:
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/main/screenshots/Detection/wazuh-succesful-login.jpeg" width="30%" />
-  <img src="https://raw.githubusercontent.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/main/screenshots/Detection/wazuh-dashboard.jpeg" width="30" />
+  <img src="https://raw.githubusercontent.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/main/screenshots/Detection/wazuh-dashboard.jpeg" width="15%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/main/screenshots/attack/hydra-bruteforce-success.jpeg" width="30%" />
-  <img src="https://raw.githubusercontent.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/main/screenshots/log-analysis/grep-awk-sort-uniq-command.jpeg" width="30%" />
+  <img src="https://raw.githubusercontent.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/main/screenshots/attack/hydra-bruteforce-success.jpeg" width="15%" />
+  <img src="https://raw.githubusercontent.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/main/screenshots/log-analysis/grep-awk-sort-uniq-command.jpeg" width="15%" />
 </p>
 
 ---
