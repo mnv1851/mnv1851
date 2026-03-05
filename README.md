@@ -190,10 +190,6 @@ Repository:
   <img src="https://streak-stats.demolab.com?user=mnv1851&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnv1851&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
 
