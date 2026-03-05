@@ -85,13 +85,13 @@ Repository:
 ## Screenshots
 
 <p align="center">
-  <img src="soc-ssh-bruteforce-detection-wazuh/screenshots/Detection/wazuh-succesful-login.jpeg" width="45%" />
-  <img src="soc-ssh-bruteforce-detection-wazuh/screenshots/Detection/wazuh-dashboard.jpeg" width="45%" />
+  <img src="mnv1851/soc-ssh-bruteforce-detection-wazuh/screenshots/Detection/wazuh-succesful-login.jpeg" width="45%" />
+  <img src="mnv1851/soc-ssh-bruteforce-detection-wazuh/screenshots/Detection/wazuh-dashboard.jpeg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="soc-ssh-bruteforce-detection-wazuh/screenshots/attack/hydra-bruteforce-success.jpeg" width="45%" />
-  <img src="soc-ssh-bruteforce-detection-wazuh/screenshots/log-analysis/grep-awk-sort-uniq-command.jpeg" width="45%" />
+  <img src="mnv1851/soc-ssh-bruteforce-detection-wazuh/screenshots/attack/hydra-bruteforce-success.jpeg" width="45%" />
+  <img src="mnv1851/soc-ssh-bruteforce-detection-wazuh/screenshots/log-analysis/grep-awk-sort-uniq-command.jpeg" width="45%" />
 </p>
 
 ---
