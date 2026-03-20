@@ -97,6 +97,8 @@ Repository:
 
 | Project | What it proves | Link |
 |---|---|---|
+| SOC Alert Triage Classifier using Azure AI Foundry | AI-assisted alert triage + security text classification + Azure deployment workflow | [https://github.com/mnv1851/soc-alert-triage-classifier-azure](https://github.com/mnv1851/soc-alert-triage-classifier-azure) |
+
 | SOC SSH Brute Force Detection Lab (Wazuh) | Detection engineering + investigation workflow + MITRE mapping | https://github.com/mnv1851/soc-ssh-bruteforce-detection-wazuh |
 | Malware Analysis - FLARE VM | Reverse engineering practice + analysis discipline | https://github.com/mnv1851/MalwareAnalysis-FlareVM |
 | Splunk Firewall Dashboard | Log visualization + monitoring mindset | https://github.com/mnv1851/Splunk-Firewall-Dashboard |
