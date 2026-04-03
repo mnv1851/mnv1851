@@ -41,15 +41,18 @@
 
 ## 𝗔𝗯𝗼𝘂𝘁
 
-I am a cybersecurity practitioner focused on **SOC analysis, blue teaming, and incident investigation**.
+I am a cybersecurity practitioner focused on SOC analysis, blue teaming, and incident investigation.
 
-I hold a **Bachelor's in Computer Applications** from Chandigarh University and I am currently pursuing a **MAS : Computer Security and Forensic Administration** at **Fairleigh Dickinson University (Vancouver, Canada)**.
+I hold a Bachelor’s in Computer Applications from Chandigarh University and I am currently pursuing a MAS in Computer Security and Forensic Administration at Fairleigh Dickinson University, Vancouver, Canada.
 
-My work centers on building **hands-on security labs** that simulate realistic attack behavior, generate authentic logs, and document investigation workflows with a **SOC analyst mindset**.
+I recently earned the CompTIA Security+ certification and continue to strengthen my skills through hands-on labs, SIEM investigations, malware analysis practice, and detection-oriented security projects.
 
-I am Top 1% in TryHackMe with **SAL1 (Security Analyst Level 1) certified** and continuously sharpen my capabilities through practical labs, malware analysis practice, SIEM investigations, and detection-oriented projects.
+My work focuses on building realistic security labs that simulate attacker behavior, generate authentic logs, and document investigations with a SOC analyst mindset.
 
-My portfolio is built with one purpose: **prove job-ready SOC capability through real artifacts**—detections, timelines, logs, SIEM alerts, and structured write-ups.
+I am also ranked in the Top 1% on TryHackMe and hold the SAL1 (Security Analyst Level 1) certification.
+
+My portfolio is built with one purpose: to demonstrate job-ready SOC capability through real artifacts—detections, timelines, logs, SIEM alerts, and structured write-ups.
+
 
 ---
 
@@ -173,6 +176,8 @@ Repository:
 ---
 
 ## 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/6c590cea-076d-4c99-ab7b-0606612ace80/public_url)
 
 <p>
   <a href="https://www.credly.com/badges/53a618a4-dd2d-428d-a173-8c34162bfcab">
