@@ -41,7 +41,7 @@
 
 ## 𝗔𝗯𝗼𝘂𝘁
 
-I am a cybersecurity practitioner focused on SOC analysis, blue teaming, and incident investigation.
+I am a cybersecurity specialist focused on SOC analysis, blue teaming, and incident investigation.
 
 I hold a Bachelor’s in Computer Applications from Chandigarh University and I am currently pursuing a MAS in Computer Security and Forensic Administration at Fairleigh Dickinson University, Vancouver, Canada.
 
