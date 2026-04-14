@@ -110,15 +110,11 @@ Repository:
 ## 𝗣𝗹𝗮𝘆𝗯𝗼𝗼𝗸𝘀 & 𝗪𝗿𝗶𝘁𝗲𝘂𝗽𝘀
 
 ### Investigation Writeups
-| Writeup | What it proves | Link |
+| Incidents | What it proves | Writeups | Playbooks |
 |---|---|---|
 | Phishing Investigation Writeup | identify the real attack path among noisy phishing activity, and maintain strong analyst accuracy under time pressure. | https://github.com/mnv1851/TryHackMe-SOC-Simulation-Write-Up-Phishing-Unfolding | 
-| SSH Brute Force Investigation Writeup | detect, analyze, and report SSH brute-force attacks in a SOC-style workflow. | https://github.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/blob/main/4-incident-report/README.md |
+| SSH Brute Force Investigation Writeup | detect, analyze, and report SSH brute-force attacks in a SOC-style workflow. | https://github.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/blob/main/4-incident-report/README.md | https://github.com/mnv1851/SSH-Brute-Force-and-Privilege-Escalation-Incident-Response-Playbook |
   
-
-### SOC / Detection Playbooks
-- [SSH Brute Force Alert Triage Playbook](#)  
-- [Phishing Triage Playbook](#)
 
 <p align="center"><i>Playbooks and writeups are designed to demonstrate analyst thinking, triage workflow, and documentation quality.</i></p>
 
