@@ -109,7 +109,7 @@ Repository:
 
 ## 𝗣𝗹𝗮𝘆𝗯𝗼𝗼𝗸𝘀 & 𝗪𝗿𝗶𝘁𝗲𝘂𝗽𝘀
 
-### Incidents I handled and created writeups + playbooks
+### Incidents I've handled and created writeups + playbooks
 | Incidents | What it proves | Writeups | Playbooks |
 |---|---|---|---|
 | Phishing Investigation Writeup | identify the real attack path among noisy phishing activity, and maintain strong analyst accuracy under time pressure. | https://github.com/mnv1851/TryHackMe-SOC-Simulation-Write-Up-Phishing-Unfolding | 
