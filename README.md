@@ -118,8 +118,7 @@ Repository:
 
 ### SOC / Detection Playbooks
 - [SSH Brute Force Alert Triage Playbook](#)  
-- [Failed Authentication Investigation Playbook](#)  
-- [Web Shell Detection Initial Response Playbook](#)  
+- [Phishing Triage Playbook](#)
 
 <p align="center"><i>Playbooks and writeups are designed to demonstrate analyst thinking, triage workflow, and documentation quality.</i></p>
 
