@@ -113,7 +113,7 @@ Repository:
 ### Incidents I've handled and created writeups + playbooks
 | Incidents | What it proves | Writeups | Playbooks |
 |---|---|---|---|
-| Phishing Investigation Writeup | identify the real attack path among noisy phishing activity, and maintain strong analyst accuracy under time pressure. | https://github.com/mnv1851/TryHackMe-SOC-Simulation-Write-Up-Phishing-Unfolding | 
+| Phishing Investigation Writeup | identify the real attack path among noisy phishing activity, and maintain strong analyst accuracy under time pressure. | https://github.com/mnv1851/TryHackMe-SOC-Simulation-Write-Up-Phishing-Unfolding | https://github.com/mnv1851/TryHackMe-SOC-Simulation-Write-Up-Phishing-Unfolding/blob/main/Phishing-Playbook.md |
 | SSH Brute Force Investigation Writeup | detect, analyze, and report SSH brute-force attacks in a SOC-style workflow. | https://github.com/mnv1851/soc-ssh-bruteforce-detection-wazuh/blob/main/4-incident-report/README.md | https://github.com/mnv1851/SSH-Brute-Force-and-Privilege-Escalation-Incident-Response-Playbook |
   
 
