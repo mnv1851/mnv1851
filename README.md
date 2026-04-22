@@ -49,11 +49,7 @@ I am also ranked in the Top 1% on TryHackMe and hold the SAL1 (Security Analyst 
 
 My portfolio is built with one purpose: to demonstrate job-ready SOC capability through real artifacts—detections, timelines, logs, SIEM alerts, and structured write-ups.
 
-## Elevator Pitch
 
-Check out my elevator pitch video to get a quick overview of my skills, experience, and passion for cybersecurity.
-
-[![Watch my Elevator Pitch](https://img.youtube.com/vi/2AQ0eLdgGhw/hqdefault.jpg)](https://www.youtube.com/watch?v=2AQ0eLdgGhw)
 
 ---
 
