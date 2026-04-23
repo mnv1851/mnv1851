@@ -182,6 +182,11 @@ Repository:
 
 ---
 
+## Elevator Pitch
+
+[![Elevatory Pitch](https://img.youtube.com/vi/2AQ0eLdgGhw/0.jpg)](https://www.youtube.com/watch?v=2AQ0eLdgGhw)
+
+---
 ## 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 
 <p align="center">
