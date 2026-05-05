@@ -105,7 +105,7 @@ Repository:
 
 ---
 
-## 𝗣𝗹𝗮𝘆𝗯𝗼𝗼𝗸𝘀 & 𝗪𝗿𝗶𝘁𝗲𝘂𝗽𝘀
+## SOC-style documentation: 𝗣𝗹𝗮𝘆𝗯𝗼𝗼𝗸𝘀 & 𝗪𝗿𝗶𝘁𝗲𝘂𝗽𝘀
 
 ### Incidents I've handled and created writeups + playbooks
 | Incidents | What it proves | Writeups | Playbooks |
