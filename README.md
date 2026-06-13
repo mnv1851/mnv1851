@@ -43,9 +43,9 @@
 
 I am a cybersecurity specialist focused on SOC and Security analysis, blue teaming, and incident investigation.
 
-I recently earned the CompTIA Security+ certification and continue to strengthen my skills through hands-on labs, SIEM investigations, malware analysis practice, and detection-oriented security projects. I hold a Bachelor’s in Computer Applications from Chandigarh University and I am currently pursuing a MAS in Computer Security and Forensic Administration at Fairleigh Dickinson University, Vancouver, Canada.
+I recently earned the CompTIA Security+, Microsoft AZ-900 certification, and continue to strengthen my skills through hands-on labs, SIEM investigations, malware analysis practice, and detection-oriented security projects. I hold a Bachelor’s in Computer Applications from Chandigarh University and I am currently pursuing a MAS in Computer Security and Forensic Administration at Fairleigh Dickinson University, Vancouver, Canada.
 
-I am also ranked in the Top 1% on TryHackMe and hold the SAL1 (Security Analyst Level 1) certification.
+I am also ranked in the Top 1% on TryHackMe and hold the exclusive SAL1 (Security Analyst Level 1) certification.
 
 My portfolio is built with one purpose: to demonstrate job-ready SOC capability through real artifacts—detections, timelines, logs, SIEM alerts, and structured write-ups.
 
