@@ -174,6 +174,8 @@ Repository:
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/6c590cea-076d-4c99-ab7b-0606612ace80/public_url)
 
+[![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/manav-9625/credentials/fe862cfd080bad11?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
 <p>
   <a href="https://www.credly.com/badges/53a618a4-dd2d-428d-a173-8c34162bfcab">
     <img src="https://img.shields.io/badge/SAL1%20(TryHackMe)-ef4444?style=for-the-badge&logo=tryhackme&logoColor=white" alt="SAL1 Badge" />
