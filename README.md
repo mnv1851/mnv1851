@@ -40,7 +40,11 @@
 ---
 ## Elevator Pitch
 
-[![Elevatory Pitch](https://youtu.be/M_Ddwobxjm4)
+[![Watch my Elevator Pitch](https://img.youtube.com/vi/M_Ddwobxjm4/hqdefault.jpg)](https://youtu.be/M_Ddwobxjm4)
+
+Click the thumbnail above to watch my elevator pitch.
+```
+
 
 ---
 ## 𝗔𝗯𝗼𝘂𝘁
