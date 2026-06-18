@@ -38,7 +38,11 @@
 </p>
 
 ---
+## Elevator Pitch
 
+[![Elevatory Pitch](https://youtu.be/M_Ddwobxjm4)
+
+---
 ## 𝗔𝗯𝗼𝘂𝘁
 
 I am a cybersecurity specialist focused on SOC and Security analysis, blue teaming, and incident investigation.
@@ -183,12 +187,6 @@ Repository:
     <img src="https://img.shields.io/badge/SAL1%20(TryHackMe)-ef4444?style=for-the-badge&logo=tryhackme&logoColor=white" alt="SAL1 Badge" />
   </a>
 </p>
-
----
-
-## Elevator Pitch
-
-[![Elevatory Pitch](https://img.youtube.com/vi/2AQ0eLdgGhw/0.jpg)](https://www.youtube.com/watch?v=2AQ0eLdgGhw)
 
 ---
 ## 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
